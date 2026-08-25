@@ -70,3 +70,20 @@ Business Development | Fintech & Payments | Crypto | Data & Strategy
 
 [LinkedIn](https://www.linkedin.com/in/kingsley-abraham-a35b99320/)
 
+africa-payments-market-analysis/
+│
+├── README.md
+│
+├── data/
+│   └── payments_market_data.csv
+│
+├── analysis/
+│   └── market_analysis.py
+│
+├── visuals/
+│   ├── market_comparison.png
+│   └── payment_growth.png
+│
+└── findings/
+    └── recommendations.md
+
